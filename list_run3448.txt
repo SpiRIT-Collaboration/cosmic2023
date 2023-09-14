@@ -1,0 +1,12 @@
+/home/ejungwoo/data/cosmic2023/cobo00/run_3448.dat.10-07-23_15h15m28s
+/home/ejungwoo/data/cosmic2023/cobo01/run_3448.dat.10-07-23_15h15m28s
+/home/ejungwoo/data/cosmic2023/cobo02/run_3448.dat.10-07-23_15h15m28s
+/home/ejungwoo/data/cosmic2023/cobo03/run_3448.dat.10-07-23_15h15m28s
+/home/ejungwoo/data/cosmic2023/cobo04/run_3448.dat.10-07-23_15h15m28s
+/home/ejungwoo/data/cosmic2023/cobo05/run_3448.dat.10-07-23_15h15m28s
+/home/ejungwoo/data/cosmic2023/cobo06/run_3448.dat.10-07-23_15h15m32s
+/home/ejungwoo/data/cosmic2023/cobo07/run_3448.dat.10-07-23_15h15m32s
+/home/ejungwoo/data/cosmic2023/cobo08/run_3448.dat.10-07-23_15h15m32s
+/home/ejungwoo/data/cosmic2023/cobo09/run_3448.dat.10-07-23_15h15m32s
+/home/ejungwoo/data/cosmic2023/cobo10/run_3448.dat.10-07-23_15h15m32s
+/home/ejungwoo/data/cosmic2023/cobo11/run_3448.dat.10-07-23_15h15m32s
